@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+  <postmarkapp_adminhtml_postmarkappbackend_index>
+	<reference name="content">
+	  <block type="postmarkapp/adminhtml_postmarkappbackend" name="postmarkappbackend" template="postmarkapp/postmarkappbackend.phtml"/>
+	</reference>
+  </postmarkapp_adminhtml_postmarkappbackend_index>
+</layout>

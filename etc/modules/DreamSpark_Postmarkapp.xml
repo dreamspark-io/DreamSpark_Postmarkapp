@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <DreamSpark_Postmarkapp>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.0</version>
+      <depends>
+        <Mage_Core/>
+      </depends>
+    </DreamSpark_Postmarkapp>
+  </modules>
+</config>
